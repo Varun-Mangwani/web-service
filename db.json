@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Eternal Gopi Raas",
+      "price": 115000,
+      "img": "https://lh3.googleusercontent.com/aida/ADBb0ug1bkrJDTErX1zl8wBx0XKRBgSKEdBl-cpLJ5-8gOMhaHAUgmll-AbptchrXRSxvMmiDr-VKQRgvXjnxy1_LdjSIHu1PzEnuLUu_TkSCjfHIUEPiyOGYKFrmRYR9EYVEP-JV6YzRASzYzq4Qe5su7HFKI8eqHbucqyVagwuhCREXwY9v6xttxwM8nb15REyJI0RsmQIIPCcxs0z_NJyqLypiLOfEhrKKOtpMaUk5OEzUiftNwuQrPY0xoid",
+      "category": "DEVOTIONAL",
+      "desc": "This masterpiece captures the Raas Leela, the joyful dance of Shri Krishna with the Gopis in the moonlit groves of Vraj.",
+      "fullInfo": {
+        "artist": "Shri Vallabh Das",
+        "materials": "Natural stone pigments, 24-karat gold leaf, hand-woven cotton canvas",
+        "origin": "Nathdwara, Rajasthan",
+        "dimensions": "36 x 48 in",
+        "year": 2024,
+        "story": "The composition is built around the sacred moonlit rasa dance and uses a layered palette of indigo, emerald, and saffron to evoke the spiritual energy of Braj."
+      }
+    },
+    {
+      "id": 2,
+      "name": "Royal Peacock Vanam",
+      "price": 95000,
+      "img": "https://lh3.googleusercontent.com/aida/ADBb0ugiYAm7ozvSr3xjhdJL5c7WdtJd8szyuxGTa0WGXPPRnomxEDFMdWWNOMPCLrQewVyUqF0QCmVKoDWPyzaxn98rOxJq7NKqW2sb_lijXw6VMSwl-sQknv6cba99t_14Gfyi_UOoqvQqYhf1ESMEbrjPzvqn082J2Su6qG3ZbbVxQhbIOniAZQTGxYgeIK0gzJE7on1fSlMYtnu0ZKO5TKWQOAaUZzFHdCJSVY9xGHFWlMANOa22cNQmQ7Uz",
+      "category": "HERITAGE",
+      "desc": "The peacock, a symbol of royalty and monsoon's grace, is depicted here amongst blooming lotuses.",
+      "fullInfo": {
+        "artist": "Smt. Radha Ji",
+        "materials": "Lapis blue, cinnabar red, malachite green, hand-applied gold",
+        "origin": "Nathdwara school of painting",
+        "dimensions": "24 x 36 in",
+        "year": 2023,
+        "story": "The painting celebrates the arrival of monsoon and the symbolic elegance of the peacock, linking the divine court of Krishna to the natural splendor of Rajasthan."
+      }
+    },
+    {
+      "id": 3,
+      "name": "Sacred Annakut Utsav",
+      "price": 185000,
+      "img": "https://lh3.googleusercontent.com/aida/ADBb0uhws7APnSS-7ChHSSgx_6Y0Vz6-fPHBMCFWRiEvGOv89WKzvunr5aP7oDr--1aFiETX5f-RF71Vz-HYWQhGSwFInfXiVq8QzdebKM-qJkT0615CgeI6SBCjyVcvwOdqHMjJRaYbek2vlpVx5fYhKrTk92DvXp_d2JR13jagKpoGGKOO87ZzDyCDiBX0XgpIfFw4n8OMuHAjTHlfWWCrd57ek05ZV-Crl-_Skow162I8ZIjCdJ2gmI4wWnT-",
+      "category": "FESTIVAL",
+      "desc": "A grand celebration in Nathdwara where a mountain of food is offered to Shri Nath Ji.",
+      "fullInfo": {
+        "artist": "Keshav Ji",
+        "materials": "Mineral pigments, 24-karat gold leaf, cotton canvas",
+        "origin": "Temple-inspired fresco tradition",
+        "dimensions": "48 x 60 in",
+        "year": 2022,
+        "story": "Annakut is one of the most vibrant festivals in Nathdwara, and this work captures the scale, devotion, and abundance of the celebration in a richly ornamented composition."
+      }
+    },
+    {
+      "id": 4,
+      "name": "Gowardhan Cow Heritage",
+      "price": 110000,
+      "img": "https://lh3.googleusercontent.com/aida/ADBb0uiSjciGmqexAp0blT0uhpw9ITfDPobc_8mUEhL1Crk5CVyCWRYsKdX-UtpKfB-E8ayzzb5rGotJgj8s81JsZqNAUPP-yhk5eT7VqIreA_hnl3ttv31sG9doZuugu-rvfw41QiwKLnnwuiVU7sBF6i-I8Oe6e57D_h9yfg5y1u_riCaR_hi3sJ3v-dG0WFfRwr4HXi-W5P0SDh4kImJgmnkCxTJu82e_woyM0RhhTIynV6NIe4FZyL0ZSes",
+      "category": "TRADITIONAL",
+      "desc": "Cows are central to the Pichwai tradition, representing the Kamadhenu and the pastoral abundance of Braj.",
+      "fullInfo": {
+        "artist": "Nath Ji Atelier",
+        "materials": "Stone pigments, hand-laid gold leaf, natural gum binding",
+        "origin": "Braj region heritage style",
+        "dimensions": "30 x 40 in",
+        "year": 2021,
+        "story": "The painting reveres the sacred cow as a symbol of prosperity and divine care, rendered with calm dignity and strong devotional presence."
+      }
+    },
+    {
+      "id": 1784114452216,
+      "name": "varun",
+      "price": 2000,
+      "img": "https://m.media-amazon.com/images/I/811ez0yerlL.jpg",
+      "category": "DEVOTIONAL",
+      "desc": "ssdsdsd",
+      "fullInfo": {
+        "artist": "Curatorial team",
+        "materials": "Traditional pigments",
+        "origin": "Nathdwara studio",
+        "dimensions": "Custom",
+        "year": 2026,
+        "story": "Added through the admin dashboard."
+      }
+    }
+  ]
+}

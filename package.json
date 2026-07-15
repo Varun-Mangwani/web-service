@@ -1,0 +1,13 @@
+{
+  "name": "krishnam",
+  "version": "1.0.0",
+  "description": "Simple Express API",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
