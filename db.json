@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Eternal Gopi Raas",
       "price": 115000,
-      "img": "https://lh3.googleusercontent.com/aida/ADBb0ug1bkrJDTErX1zl8wBx0XKRBgSKEdBl-cpLJ5-8gOMhaHAUgmll-AbptchrXRSxvMmiDr-VKQRgvXjnxy1_LdjSIHu1PzEnuLUu_TkSCjfHIUEPiyOGYKFrmRYR9EYVEP-JV6YzRASzYzq4Qe5su7HFKI8eqHbucqyVagwuhCREXwY9v6xttxwM8nb15REyJI0RsmQIIPCcxs0z_NJyqLypiLOfEhrKKOtpMaUk5OEzUiftNwuQrPY0xoid",
+      "img": "https://i.pinimg.com/736x/67/98/2b/67982bbca321fef1774256b7b5cce58c.jpg",
       "category": "DEVOTIONAL",
       "desc": "This masterpiece captures the Raas Leela, the joyful dance of Shri Krishna with the Gopis in the moonlit groves of Vraj.",
       "fullInfo": {
@@ -20,7 +20,7 @@
       "id": 2,
       "name": "Royal Peacock Vanam",
       "price": 95000,
-      "img": "https://lh3.googleusercontent.com/aida/ADBb0ugiYAm7ozvSr3xjhdJL5c7WdtJd8szyuxGTa0WGXPPRnomxEDFMdWWNOMPCLrQewVyUqF0QCmVKoDWPyzaxn98rOxJq7NKqW2sb_lijXw6VMSwl-sQknv6cba99t_14Gfyi_UOoqvQqYhf1ESMEbrjPzvqn082J2Su6qG3ZbbVxQhbIOniAZQTGxYgeIK0gzJE7on1fSlMYtnu0ZKO5TKWQOAaUZzFHdCJSVY9xGHFWlMANOa22cNQmQ7Uz",
+      "img": "https://i.pinimg.com/736x/27/cb/c7/27cbc7053c708268b6e40e53c233315d.jpg",
       "category": "HERITAGE",
       "desc": "The peacock, a symbol of royalty and monsoon's grace, is depicted here amongst blooming lotuses.",
       "fullInfo": {
@@ -36,7 +36,7 @@
       "id": 3,
       "name": "Sacred Annakut Utsav",
       "price": 185000,
-      "img": "https://lh3.googleusercontent.com/aida/ADBb0uhws7APnSS-7ChHSSgx_6Y0Vz6-fPHBMCFWRiEvGOv89WKzvunr5aP7oDr--1aFiETX5f-RF71Vz-HYWQhGSwFInfXiVq8QzdebKM-qJkT0615CgeI6SBCjyVcvwOdqHMjJRaYbek2vlpVx5fYhKrTk92DvXp_d2JR13jagKpoGGKOO87ZzDyCDiBX0XgpIfFw4n8OMuHAjTHlfWWCrd57ek05ZV-Crl-_Skow162I8ZIjCdJ2gmI4wWnT-",
+      "img": "https://i.pinimg.com/736x/07/2e/3b/072e3b9a1eae4544659f1ab3e53bc804.jpg",
       "category": "FESTIVAL",
       "desc": "A grand celebration in Nathdwara where a mountain of food is offered to Shri Nath Ji.",
       "fullInfo": {
@@ -52,7 +52,7 @@
       "id": 4,
       "name": "Gowardhan Cow Heritage",
       "price": 110000,
-      "img": "https://lh3.googleusercontent.com/aida/ADBb0uiSjciGmqexAp0blT0uhpw9ITfDPobc_8mUEhL1Crk5CVyCWRYsKdX-UtpKfB-E8ayzzb5rGotJgj8s81JsZqNAUPP-yhk5eT7VqIreA_hnl3ttv31sG9doZuugu-rvfw41QiwKLnnwuiVU7sBF6i-I8Oe6e57D_h9yfg5y1u_riCaR_hi3sJ3v-dG0WFfRwr4HXi-W5P0SDh4kImJgmnkCxTJu82e_woyM0RhhTIynV6NIe4FZyL0ZSes",
+      "img": "https://i.pinimg.com/1200x/7b/17/3f/7b173f2a664a628f7133b5c0e6065670.jpg",
       "category": "TRADITIONAL",
       "desc": "Cows are central to the Pichwai tradition, representing the Kamadhenu and the pastoral abundance of Braj.",
       "fullInfo": {
@@ -66,11 +66,11 @@
     },
     {
       "id": 1784114452216,
-      "name": "varun",
+      "name": "Krishna Bhakt",
       "price": 2000,
-      "img": "https://m.media-amazon.com/images/I/811ez0yerlL.jpg",
+      "img": "https://i.pinimg.com/1200x/99/c1/11/99c111e23cbb9684f92eb63a427ac0bb.jpg",
       "category": "DEVOTIONAL",
-      "desc": "ssdsdsd",
+      "desc": "",
       "fullInfo": {
         "artist": "Curatorial team",
         "materials": "Traditional pigments",
