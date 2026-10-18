@@ -20,6 +20,7 @@ app.use((req, res, next) => {
     next();
 });
 
+app.use(express.static(__dirname));
 app.use(express.json());
 
 const DB_PATH = path.join(__dirname, "db.json");
@@ -51,6 +52,9 @@ function saveDB(data) {
 // Home
 // -----------------------------
 app.get("/", (req, res) => {
+    if (req.accepts('html') && fs.existsSync(path.join(__dirname, "index.html"))) {
+        return res.sendFile(path.join(__dirname, "index.html"));
+    }
     res.json({
         success: true,
         message: "Server is running successfully 🚀"
@@ -87,9 +91,15 @@ app.post("/api/products", (req, res) => {
     try {
         const db = readDB();
 
+        const dimensions = req.body.dimensions || (req.body.fullInfo && req.body.fullInfo.dimensions) || "36 x 48 in";
         const product = {
             id: Date.now(),
-            ...req.body
+            ...req.body,
+            dimensions,
+            fullInfo: {
+                ...(req.body.fullInfo || {}),
+                dimensions
+            }
         };
 
         db.products.push(product);
@@ -128,9 +138,17 @@ app.put("/api/products/:id", (req, res) => {
             });
         }
 
+        const dimensions = req.body.dimensions || (req.body.fullInfo && req.body.fullInfo.dimensions) || db.products[index].dimensions || (db.products[index].fullInfo && db.products[index].fullInfo.dimensions) || "36 x 48 in";
+
         db.products[index] = {
             ...db.products[index],
             ...req.body,
+            dimensions,
+            fullInfo: {
+                ...(db.products[index].fullInfo || {}),
+                ...(req.body.fullInfo || {}),
+                dimensions
+            },
             id
         };
 
